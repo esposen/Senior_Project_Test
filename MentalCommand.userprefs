@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{3CEFD1A9-4FD4-0BB8-A18F-153B3CEE112A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/cube.cs">
+    <Files>
+      <File FileName="Assets/Scripts/cube.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Controller.cs" Line="14" Column="23" />
+      <File FileName="Assets/Scripts/MentalCommandControl.cs" Line="59" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MentalCommand PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="E:\GIT_UNITY\EmotivUnity_Plugin\example\MentalCommand\Assets\Contact Quality\ContactQualityUIControl.cs" line="108" column="22" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,17 @@
+/Users/Emotiv/GIT_UNITY/EmotivUnity_Plugin/example/MentalCommand/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/Emotiv/GIT_UNITY/EmotivUnity_Plugin/example/MentalCommand/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/Emotiv/GIT_UNITY/EmotivUnity_Plugin/example/MentalCommand/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/Emotiv/GIT_UNITY/EmotivUnity_Plugin/example/MentalCommand/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/Emotiv/GIT_UNITY/EmotivUnity_Plugin/example/MentalCommand/Temp/bin/Debug/UnityEngine.dll
+/Users/Emotiv/GIT_UNITY/EmotivUnity_Plugin/example/MentalCommand/Temp/bin/Debug/UnityEditor.dll
+/Users/Emotiv/GIT_UNITY/EmotivUnity_Plugin/example/MentalCommand/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Emotiv/GIT_UNITY/EmotivUnity_Plugin/example/MentalCommand/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Emotiv/GIT_UNITY/EmotivUnity_Plugin/example/MentalCommand/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Emotiv/GIT_UNITY/EmotivUnity_Plugin/example/MentalCommand/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Emotiv/GIT_UNITY/EmotivUnity_Plugin/example/MentalCommand/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Emotiv/GIT_UNITY/EmotivUnity_Plugin/example/MentalCommand/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Emotiv/GIT_UNITY/EmotivUnity_Plugin/example/MentalCommand/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Emotiv/GIT_UNITY/EmotivUnity_Plugin/example/MentalCommand/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Emotiv/GIT_UNITY/EmotivUnity_Plugin/example/MentalCommand/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Emotiv/GIT_UNITY/EmotivUnity_Plugin/example/MentalCommand/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Emotiv/GIT_UNITY/EmotivUnity_Plugin/example/MentalCommand/Temp/bin/Debug/Mono.Cecil.Mdb.dll

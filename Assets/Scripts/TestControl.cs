@@ -11,7 +11,6 @@ public class TestControl : MonoBehaviour {
     public static uint userId;
 	void Start()
 	{
-        Debug.Log("starting");
 		engine = EmoEngine.Instance;
 		engine.Connect();
 		engine.UserRemoved += onUserRemoved;

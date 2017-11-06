@@ -33,13 +33,11 @@ public class LoggerCSV : MonoBehaviour {
     private void CreateTitles(){
         string[] titles = {"Time", "Event"};
         rows.Add(titles);
-        PrintLogger();
 	}
 
     public void AddEventLog(float time, string event_log){
         string[] toAdd = { time.ToString(), event_log };
         rows.Add(toAdd);
-        PrintLogger();
     }
 
     public void PrintLogger(){

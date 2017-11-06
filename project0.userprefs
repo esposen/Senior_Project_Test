@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{FD623A16-23C7-A10E-64DF-29E2F684C3A6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TestControl.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CubeControl.cs" Line="33" Column="1" />
+      <File FileName="Assets/Scripts/LoggerCSV.cs" Line="36" Column="1" />
+      <File FileName="Assets/Scripts/TestControl.cs" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.project0 PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>

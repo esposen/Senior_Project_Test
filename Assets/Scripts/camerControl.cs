@@ -82,15 +82,20 @@ public class camerControl : MonoBehaviour {
     }
     void Update()
     {
-        x = 0; y = 0;
 
-        timeLag += Time.deltaTime;
+        timeLag += Time.deltaTime; //moniters amount of time since last cube pick up/drop
 
-        emotivControl();
-
+        if (usingEpoc)
+        {
+            emotivControl();
+        }
         buttonControll();
 
         checkCube();
+
+        if(Input.GetKeyDown(KeyCode.Y)){
+            LoggerCSV.GetInstance().SaveCSV();
+        }
 
 	}
 }

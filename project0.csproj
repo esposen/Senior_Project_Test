@@ -114,6 +114,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Contact Quality\ContactQualityUIControl.cs" />
+    <Compile Include="Assets\Scripts\LoggerCSV.cs" />
     <Compile Include="Assets\Scripts\camerControl.cs" />
     <Compile Include="Assets\Scripts\Controller.cs" />
     <Compile Include="Assets\Scripts\cube.cs" />

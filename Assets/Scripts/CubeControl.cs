@@ -30,11 +30,11 @@ public class CubeControl : MonoBehaviour {
     public void aquire(){
         pickUp = true;
         rb.isKinematic = true;
-        Debug.Log(gameObject.name + " has been picked up");    
+        LoggerCSV.GetInstance().AddEventLog(Time.time, "CubeAquire");
     }
     public void drop(){
         pickUp = false;
         rb.isKinematic = false;
-        Debug.Log(gameObject.name + " has been dropped");
+        LoggerCSV.GetInstance().AddEventLog(Time.time, "CubeDrop");
     }
 }
